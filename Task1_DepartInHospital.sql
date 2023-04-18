@@ -1,0 +1,3 @@
+SELECT DISTINCT Depart
+FROM Patients
+WHERE Depart IS NOT NULL
